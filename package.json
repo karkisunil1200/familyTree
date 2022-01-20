@@ -6,8 +6,16 @@
   "scripts": {
     "start": "nodemon index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karkisunil1200/familyTree.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karkisunil1200/familyTree/issues"
+  },
+  "homepage": "https://github.com/karkisunil1200/familyTree#readme",
   "dependencies": {
     "dotenv": "^14.2.0",
     "express": "^4.17.2",
